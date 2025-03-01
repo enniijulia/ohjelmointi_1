@@ -5,7 +5,7 @@ def bensiini(gallona):
 gallonat = int(input("Anna bensiinin gallonamäärä, minkä haluat tietää litroina: "))
 
 bensa = bensiini(gallonat)
-print("bensa litroina:" + str(bensa))
+print("bensa litroina: " + str(bensa))
 
 
 

@@ -14,3 +14,8 @@ for _ in range(N):
 pi_likiarvo = 4 * sisalla / N
 
 print(f"Piin likiarvo on noin: {pi_likiarvo}")
+
+
+
+
+
